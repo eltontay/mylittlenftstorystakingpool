@@ -1,8 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://imgur.com/v5ensAx",
-        "url_png_logo": "https://imgur.com/RgKq0rU",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/eltontay/mylittlenftstorystakingpool/main/mylittlenftstoryIcon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/eltontay/mylittlenftstorystakingpool/main/mylittlenftstoryLogo.png",
         "location": "Singapore, Singapore",
         "social": {
             "twitter_handle": "littlenftstory",
@@ -10,18 +10,13 @@
             "discord_handle": "MyLittleNftStory",
         },
         "about": {
-            "me": "A passionate team of developers that want to help Cardano Artists",
+            "me": "A passionate team of Singaporean developers that want to help the Cardano artists :)",
             "server": "Raspbery Pi because that is the sustainable way to go!",
         }
     },
     "my-pool-ids": {
-        "0": "1d4fc80d6d3004bd376d7a8c894207320182870556036dd424b11d36",
-        "1": "1d4fc80d6d3004bd376d7a8c894207320182870556036dd424b11d36"
-    },
-    "when-satured-then-recommend": {
-        "0": "1d4fc80d6d3004bd376d7a8c894207320182870556036dd424b11d36",
-        "1": "1d4fc80d6d3004bd376d7a8c894207320182870556036dd424b11d36"
-    },
+        "0": "1d4fc80d6d3004bd376d7a8c894207320182870556036dd424b11d36"
+    }
     "telegram-admin-handle": {
         "0": "NFTAY"
     },
